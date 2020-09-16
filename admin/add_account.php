@@ -68,7 +68,7 @@
 	<br />
 	<br />
 	<div style = "text-align:right; margin-right:10px;" class = "navbar navbar-default navbar-fixed-bottom">
-		<label>&copy; Shubham Sati </label>
+		<label>Priyanka Sati </label>
 	</div>
 </body>
 <script src = "../js/jquery.js"></script>
